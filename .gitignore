@@ -1,0 +1,25 @@
+# Ignore Visual Studio build folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore packages folder if recreated
+packages/
+
+# Ignore backup files
+*.bak
+*.orig
+*.tmp
+
+# Ignore temporary files
+~$*
+*.log
+
+# Ignore system files
+Thumbs.db
+.DS_Store
