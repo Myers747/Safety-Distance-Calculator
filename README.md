@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-Built with ❤️ by **Tamara Myers**  
+Built by **Tamara Weese-Myers**  
 for practical automation safety solutions.
 
 ---
