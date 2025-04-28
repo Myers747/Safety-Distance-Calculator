@@ -6,7 +6,7 @@ Developed in Visual Basic .NET using the EPPlus library for Excel file interacti
 
 ---
 
-## 📋 Features
+## Features
 
 - Calculates minimum safe distances based on actuator and light curtain timing values
 - Dynamic UI for selecting Safety Controllers, PLCs, Light Curtains, and Actuators
@@ -17,7 +17,7 @@ Developed in Visual Basic .NET using the EPPlus library for Excel file interacti
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```
 /Release
@@ -33,7 +33,7 @@ LICENSE
 
 ---
 
-##  Getting Started
+## Getting Started
 
 1. Download the `/Release` folder contents.
 2. Place the `Safe_Distance_Data.xlsx` alongside the executable.
@@ -42,7 +42,7 @@ LICENSE
 
 ---
 
-##  Requirements
+## Requirements
 
 - Windows 10 or newer
 - .NET Framework 4.8 or higher
@@ -50,13 +50,13 @@ LICENSE
 
 ---
 
-##  License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-##  Author
+## Author
 
 Built with ❤️ by **Tamara Myers**  
 for practical automation safety solutions.
